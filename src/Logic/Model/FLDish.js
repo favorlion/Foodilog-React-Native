@@ -1,0 +1,22 @@
+export type FLDish = {
+    id: string,
+    photoId: string,
+    logDid: string,
+    logCount: number,
+    isOnline: false,
+    name: '',
+    restaurantId: '',
+    restaurantName: '',
+    score: number,
+    comment: string,
+    price: number,
+    category: string,
+    description: '',
+    rid: string,
+    lid: string,
+    favourate: false,
+    // for comment
+    ucRating: number,
+    ucImage: string,
+    ucImageAssetIdentifier: string,
+}

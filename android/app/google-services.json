@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "357855885003",
+    "project_id": "firebase-foodilog"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357855885003:android:93cd63d491e0ee46",
+        "android_client_info": {
+          "package_name": "com.foodilog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357855885003-08irh808jmrtqr0hngnsue8dvgar9bes.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodilog",
+            "certificate_hash": "f44e9764c17f1a50aac57e075db526ff5ce0075f"
+          }
+        },
+        {
+          "client_id": "357855885003-imtsbumn3rfgpa37ms1rk53t0a9h7e3g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodilog",
+            "certificate_hash": "8d7bb53a3c0d62a6a7789f34dbf1f9de8997ef90"
+          }
+        },
+        {
+          "client_id": "357855885003-mm8c4qimmi8i3ns7ou9jpsatm3m7qpgn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodilog",
+            "certificate_hash": "ce49c8e8ccce709b99b2e6931a7def128c67e878"
+          }
+        },
+        {
+          "client_id": "357855885003-0lnr8h76pon6ktcta00ma5d4j9rk920t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdEILuWXa5kZpFv66zR1Nujqu_WjvKVyU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
